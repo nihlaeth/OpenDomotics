@@ -11,6 +11,7 @@ Goals / description:
 * can be operated with python script on pc (and connected to speech recognition)
 * can be operated via android devices (iOs too if we can find the money for a developer acc)
 * can be operated via any device capable of making outgoing ssh connections
+* can be operated via any device with a browser through a web-interface
 * can be operated manually via pushbuttons located on the device
 * NO BATTERIES
 * reliable: good quality watchdog that will reboot at the first sign of trouble
